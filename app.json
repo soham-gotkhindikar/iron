@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "startUrl": "https://soham-gotkhindikar.github.io/iron"
-    }
+    },
+    "userInterfaceStyle": "automatic" 
   }
 }
