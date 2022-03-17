@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/iron/static/js/app.50fdc4f7.chunk.js",
-    "app.js.map": "/iron/static/js/app.50fdc4f7.chunk.js.map",
+    "app.js": "/iron/static/js/app.8dd1bb08.chunk.js",
+    "app.js.map": "/iron/static/js/app.8dd1bb08.chunk.js.map",
     "runtime~app.js": "/iron/static/js/runtime~app.b7da671d.js",
     "runtime~app.js.map": "/iron/static/js/runtime~app.b7da671d.js.map",
     "static/js/2.6699a384.chunk.js": "/iron/static/js/2.6699a384.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.b7da671d.js",
     "static/js/2.6699a384.chunk.js",
-    "static/js/app.50fdc4f7.chunk.js"
+    "static/js/app.8dd1bb08.chunk.js"
   ]
 }
