@@ -4,7 +4,7 @@
   "lang": "en",
   "name": "iron",
   "short_name": "iron",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "https://soham-gotkhindikar.github.io/iron",
   "orientation": "portrait",
   "icons": [
     {
