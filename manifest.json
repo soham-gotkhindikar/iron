@@ -6,6 +6,14 @@
   "short_name": "iron",
   "start_url": "https://soham-gotkhindikar.github.io/iron",
   "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.soham.sg.iron",
+      "id": "com.soham.sg.iron"
+    }
+  ],
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "\\iron\\pwa\\chrome-icon\\chrome-icon-144.png",
